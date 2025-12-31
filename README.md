@@ -1,1 +1,1 @@
-https://github.com/claude-goomba/squished-homepage.git
+https://claude-goomba.github.io/squished-homepage/
